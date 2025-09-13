@@ -34,16 +34,6 @@ This repository is part of my VLSI learning journey and serves as a portfolio fo
 - [ ] Cryptographic Accelerator
 - [ ] Encryption/Decryption Engine (SHA1/SHA-256)
 
----
-
-## ✅ Progress
-- [x] Sequence Detector (completed)
-- [ ] FSM
-- [ ] ALU
-- [ ] UART
-
----
-
 ## 🛠️ Tools
 - **Simulator**: Icarus Verilog / ModelSim  
 - **Waveform Viewer**: GTKWave  
